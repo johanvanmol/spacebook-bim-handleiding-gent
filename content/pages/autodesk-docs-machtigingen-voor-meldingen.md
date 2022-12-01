@@ -1,10 +1,10 @@
 ---
-title: Autodesk Docs - machtigingen voor meldingen
+title: Autodesk Docs - Machtigingen voor meldingen
 date: 2022-12-01T13:13:42.861Z
 permalink: /autodesk-docs-machtigingen-voor-meldingen.html
 eleventyNavigation:
   order: 3
-  key: Autodesk Docs - machtigingen voor meldingen
+  key: Autodesk Docs - Machtigingen voor meldingen
 ---
 E﻿en projectbeheerder moet de machtigingen voor meldingen instellen.
 S﻿tandaard kunnen gebruikers enkel meldingen die aan henzelf gekoppeld zijn bekijken.
