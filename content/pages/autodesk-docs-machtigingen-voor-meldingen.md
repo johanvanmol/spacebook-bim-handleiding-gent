@@ -25,4 +25,4 @@ S﻿tandaard kunnen gebruikers enkel meldingen die aan henzelf gekoppeld zijn be
 >
 > D﻿eelnemers kunnen elk veld van elke melding aanmaken, weergeven en bewerken.
 
-![meldingenmachtigingen](/static/img/meldingenmachtigingen.png "meldingenmachtigingen")
+![meldingen-machtigingen](/content/images/meldingen-machtigingen.png "meldingen-machtigingen")
