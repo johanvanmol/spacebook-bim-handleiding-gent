@@ -1,13 +1,12 @@
 ---
-title: Opzetten Autodesk Docs
-date: Last Modified 
+title: Autodesk Docs - Aanmaken en instellen nieuw project
+date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Hello
+  key: Autodesk Docs - Aanmaken en instellen nieuw project
   order: 0
-  title: Opzetten Autodesk Docs
+  title: ""
 ---
-# Opzetten Autodesk Docs voor een nieuw project
 * Maak een nieuw Autodesk Docs Project, en baseer dit op een template
     * Dit zorgt ervoor dat het nieuwe project meteen over de juiste mappenstructuur met de juiste machtigingen beschikt
 * Kijk de aangemaakte mappenstructuur na, en verwijder de mappen die je niet nodig hebt (bepaalde rollen die niet aan het project zullen deelnemen)
