@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Autodesk Docs - Aanmaken en instellen nieuw project
   order: 0
   title: ""
+  parent: Intern
 ---
 * Maak een nieuw Autodesk Docs Project, en baseer dit op een template
 
