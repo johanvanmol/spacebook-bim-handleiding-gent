@@ -5,6 +5,7 @@ permalink: /verspreiden-van-verslagen-via-autodesk-docs.html
 eleventyNavigation:
   order: 20
   key: Autodesk Docs - Verspreiden van verslagen
+  parent: Extern
 ---
 Verslagen moeten gebaseerd zijn op de Word template die ter beschikking gesteld wordt door de Stad Gent.
 
