@@ -5,6 +5,7 @@ permalink: /autodesk-docs-machtigingen-voor-meldingen.html
 eleventyNavigation:
   order: 10
   key: Autodesk Docs - Machtigingen voor meldingen
+  parent: Intern
 ---
 E﻿en projectbeheerder moet de machtigingen voor meldingen instellen.
 S﻿tandaard kunnen gebruikers enkel meldingen die aan henzelf gekoppeld zijn bekijken.
