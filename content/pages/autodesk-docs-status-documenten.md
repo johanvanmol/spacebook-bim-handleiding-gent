@@ -5,6 +5,7 @@ permalink: /autodesk-docs-status-documenten.html
 eleventyNavigation:
   order: 102
   key: Autodesk Docs - Status documenten
+  parent: Extern
 ---
 De mappenstructuur van de Stad Gent is op het hoogste niveau gebaseerd op de ISO 19650 standaard:
 
