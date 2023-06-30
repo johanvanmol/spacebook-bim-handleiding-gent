@@ -9,7 +9,7 @@ eleventyNavigation:
 E﻿en projectbeheerder moet de machtigingen voor meldingen instellen.
 S﻿tandaard kunnen gebruikers enkel meldingen die aan henzelf gekoppeld zijn bekijken.
 
-1. G﻿a naar **Meldingen > Instellingen** en klik op Machtigingen toevoegen.
+1. Ga naar **Meldingen > Instellingen** en klik op Machtigingen toevoegen.
 2. K﻿ies een rol en kies het gewenste machtigingsniveau voor deze rol.
 
 > ## Aanmaken voor mijn bedrijf
