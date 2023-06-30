@@ -5,6 +5,7 @@ permalink: /autodesk-docs-naamgeving-documenten.html
 eleventyNavigation:
   order: 101
   key: Autodesk Docs - Naamgeving documenten
+  parent: Extern
 ---
 Documenten op Autodesk Docs moeten in de meeste gevallen een verplichte naamgeving volgen.  Per map werd bepaald of er al dan niet een verplichte naamgeving van toepassing is.  Je kan mappen met een verplichte naamgeving herkennen aan het pictogram in de rechteronderhoek:
 
