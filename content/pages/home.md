@@ -20,7 +20,7 @@ eleventyNavigation:
 
 * Upload een naamgevingsstandaard: Bestanden > Instellingen > Naamgevingsstandaard > ... > Importeren
 
-  * Selecteer de mappen waarop de naamgevingsstandaard van toepassing moet zijn (= alles behalve "WIP")
+  * Selecteer de mappen waarop de naamgevingsstandaard van toepassing moet zijn (= alles behalve "01_WIP" en "04_Published/07_OV_Omgevingsvergunning")
   * Schakel het "Opslaggebied" uit.  Hierdoor kunnen bestanden niet geüpload worden wanneer ze niet de correcte naamgeving hebben.
 
 ![import-naamgevingsstandaard](/content/images/import-naamgevingsstandaard.png "import-naamgevingsstandaard")
