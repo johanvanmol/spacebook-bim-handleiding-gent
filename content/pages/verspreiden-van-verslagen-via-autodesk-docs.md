@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 Verslagen moeten gebaseerd zijn op de Word template die ter beschikking gesteld wordt door de Stad Gent.
 
-De verslagen worden aangemaakt in Word, maar ook bewaard als PDF.  De PDF versie wordt gedeeld via Autodesk Docs.
+De verslagen worden in Word aangemaakt in de WIP-map en als pdf gepubliceerd.
 
 Verslagen worden meteen in één van de submappen van de "04_Published" map geplaatst.
 
