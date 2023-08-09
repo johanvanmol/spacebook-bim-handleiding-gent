@@ -16,7 +16,7 @@ Als beheerder kan je via **Instellingen > Attributen** bepalen welke attributen 
 
 ![](/content/images/attribuutinstellingen-projectbeheerders.png)
 
-Door het pictogram met de 8 punten te verslepen, kunnen alle attributen in de gewenste volgorde geplaatst worden, voor alle projectleden (projectleden kunnen dit nadien zelf personaliseren indien gewenst).
+Door het pictogram met de 8 punten te verslepen, kunnen alle attributen in de gewenste volgorde geplaatst worden, voor alle projectleden (projectleden kunnen dit nadien [zelf personaliseren](https://bim-gent.netlify.app/attribuutinstellingen-voor-projectdeelnemers) indien gewenst).
 
 ![](/content/images/attribuutinstellingen-projectbeheerders-slepen.png)
 
