@@ -31,6 +31,20 @@ Als je zeker wil zijn dat de ontvanger op de hoogte gebracht wordt van het nieuw
 
 ![](/content/images/documenten-delen-email.png)
 
+### Overdrachten: formeler delen met projectdeelnemers
+
+Het is ook mogelijk om op een formelere manier documenten met projectdeelnemers te delen.  Dit kan je doen door een overdracht te maken.  Selecteer hiervoor één of meerdere documenten, en klik op "overdracht maken":
+
+![](/content/images/documenten-delen-overdracht-maken.png)
+
+Elke overdracht is een formele uitwisseling van documenten, en moet een titel en één of meerdere ontvangers krijgen:
+
+![](/content/images/documenten-delen-overdracht-titel.png)
+
+De ontvangers ontvangen een e-mailbericht, en alle overdrachten blijven achteraf raadpleegbaar in een centraal overzicht:
+
+![](/content/images/documenten-delen-overdracht-overzicht.png)
+
 ## Documenten delen met externen
 
 Wanneer het door de beheerder van het project wordt toegelaten, is het ook mogelijk om bestanden te delen met externen (= openbare links).  Denk hierbij bijvoorbeeld aan adviserende diensten.
