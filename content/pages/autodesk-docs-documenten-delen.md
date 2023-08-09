@@ -47,16 +47,10 @@ De ontvangers ontvangen een e-mailbericht, en alle overdrachten blijven achteraf
 
 ## Documenten delen met externen
 
-Wanneer het door de beheerder van het project wordt toegelaten, is het ook mogelijk om bestanden te delen met externen (= openbare links).  Denk hierbij bijvoorbeeld aan adviserende diensten.
-
-Omwille van security redenen kan het delen van deze openbare links ook uitgeschakeld worden.
-
-![](/content/images/documenten-delen-openbaar.png)
-
-Als gebruiker krijg je dan deze optie:
+Wanneer het door de beheerder van het project wordt toegelaten (zie [dit artikel](https://bim-gent.netlify.app/autodesk-docs-openbare-links-toestaan)), is het ook mogelijk om bestanden te delen met externen (= openbare links).  Denk hierbij bijvoorbeeld aan het delen van plannen of modellen met adviserende diensten.
 
 ![](/content/images/documenten-delen-openbaar-popout.png)
 
 Je kan dan kiezen om externen een e-mail te sturen, of om hen enkel een koppeling (URL) te bezorgen.
 
-**Ter herinnering: wanneer deze optie ontbreekt, heeft de beheerder het delen van openbare links uitgeschakeld.**
+**Ter info: wanneer deze optie ontbreekt, heeft de beheerder het delen van openbare links uitgeschakeld.**
