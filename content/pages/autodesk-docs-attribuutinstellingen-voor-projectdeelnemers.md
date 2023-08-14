@@ -1,7 +1,7 @@
 ---
 title: Autodesk Docs - Attribuutinstellingen voor projectdeelnemers
 date: 2023-08-09T14:24:37.029Z
-permalink: /attribuutinstellingen-voor-projectbeheerders.html
+permalink: /attribuutinstellingen-voor-projectdeelnemers.html
 eleventyNavigation:
   key: Autodesk Docs - Attribuutinstellingen voor projectdeelnemers
   order: 0
