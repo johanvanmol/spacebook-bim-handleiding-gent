@@ -38,13 +38,14 @@ Voorbeeld:
    * Door een document te kopiëren, wordt enkel de op dat moment actuele versie gekopieerd.  Met andere woorden: ook al bevindt het document zich al op V5 in de WIP map, in de de shared map zal dit een V1 worden (=de eerste gedeelde versie).
 
      * Dit is perfect logisch.  De 4 voorgaande versies waren helemaal niet bedoeld om te delen.  Deze historiek mag niet mee gekopieerd worden.
-   * De laatste positie van de naamgeving moet op dit moment nog niet ingevuld zijn.  Deze mag als "Algemeen" aangeduid worden.  Het gaat immers om het Revit model voor het volledige projecten, waarop steeds verdergewerkt zal worden.  Niet om het model voor een bepaalde fase.  Dat wordt het pas in de volgende stap.
+   * De laatste positie in de naamgeving verwijst naar de projectfase en wordt ingevuld naargelang de fase waar men zich in bevindt.  Het gaat om het Revit model dat het volledige project zal doorlopen, waarop dus steeds verder gewerkt zal worden, maar telkens bij overgang naar een andere fase zal de aanduiding achteraan aangepast moeten worden.
 
-     * Als er wel een concrete fase ingevuld wordt in de laatste positie, zal deze regelmatig aangepast moeten worden.
-3. Zodra de fase voorontwerp te einde loopt, en het Revit model werd gecontroleerd en goedgekeurd, zal het architectenbureau het opnieuw **kopieren**.  Deze keer naar de map "04_Published\04_VO_Voorontwerp"
-
-   * Nu moet ook de naam van het gekopieerde document gewijzigd worden.
-   * De laatste positie in de naamgeving verwijst naar de projectfase, en moet dus correct ingevuld worden:
+3. Zodra de fase (bijvoorbeeld voorontwerp) ten einde loopt, en het Revit model werd gecontroleerd en goedgekeurd, zal het architectenbureau het opnieuw **kopieren**.  Deze keer naar de map "04_Published\04_VO_Voorontwerp"
+   * De versie in de map “04_Published\04_VO_Voorontwerp” wordt dan V1.
+   Dit is perfect logisch, deze versie werd immers goedgekeurd en zal niet meer gewijzigd worden na overgang naar de volgende fase.
+   * Nu moet ook de naam van het document in de map “02_Shared\02_ONT-ARB_Architectenbureau” gewijzigd worden.
+   De laatste positie in de naamgeving verwijst naar de projectfase, en moet dus correct ingevuld worden: nu dus DO i.p.v. VO.
+   Zo kan men volgen welke fase lopende is voor dat specifieke document.
 
      ![](/content/images/naamgeving-fase.png)
 
