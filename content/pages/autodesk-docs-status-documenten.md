@@ -39,15 +39,15 @@ Voorbeeld:
 
      * Dit is perfect logisch.  De 4 voorgaande versies waren helemaal niet bedoeld om te delen.  Deze historiek mag niet mee gekopieerd worden.
    * De laatste positie in de naamgeving verwijst naar de projectfase en wordt ingevuld naargelang de fase waar men zich in bevindt.  Het gaat om het Revit model dat het volledige project zal doorlopen, waarop dus steeds verder gewerkt zal worden, maar telkens bij overgang naar een andere fase zal de aanduiding achteraan aangepast moeten worden.
-
 3. Zodra de fase (bijvoorbeeld voorontwerp) ten einde loopt, en het Revit model werd gecontroleerd en goedgekeurd, zal het architectenbureau het opnieuw **kopieren**.  Deze keer naar de map "04_Published\04_VO_Voorontwerp"
-   * De versie in de map “04_Published\04_VO_Voorontwerp” wordt dan V1.
-   Dit is perfect logisch, deze versie werd immers goedgekeurd en zal niet meer gewijzigd worden na overgang naar de volgende fase.
-   * Nu moet ook de naam van het document in de map “02_Shared\02_ONT-ARB_Architectenbureau” gewijzigd worden.
-   De laatste positie in de naamgeving verwijst naar de projectfase, en moet dus correct ingevuld worden: nu dus DO i.p.v. VO.
-   Zo kan men volgen welke fase lopende is voor dat specifieke document.
 
-     ![](/content/images/naamgeving-fase.png)
+   * De versie in de map “04_Published\04_VO_Voorontwerp” wordt dan V1.
+     Dit is perfect logisch, deze versie werd immers goedgekeurd en zal niet meer gewijzigd worden na overgang naar de volgende fase.
+   * Nu moet ook de naam van het document in de map “02_Shared\02_ONT-ARB_Architectenbureau” gewijzigd worden.
+     De laatste positie in de naamgeving verwijst naar de projectfase, en moet dus correct ingevuld worden: nu dus DO i.p.v. VO.
+     Zo kan men volgen welke fase lopende is voor dat specifieke document.
+
+![](/content/images/naamgeving-fase-do.png)
 
 Niet elk document moet alle statussen doorlopen (WIP => Shared => Published).  Sommige documenten kunnen meteen gedeeld of gepubliceerd worden.
 
